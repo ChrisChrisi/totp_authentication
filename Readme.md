@@ -1,10 +1,3 @@
-//@todo:
-
-- dependencies
-- used libraries
-- brief description of functionality
-- how to run the project
-
 # TOTP authentication application demo
 
 This application demonstrate the usage of [TOTP](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) authentication.
@@ -22,6 +15,7 @@ The project is written in [Lumen](https://lumen.laravel.com/) framework and it h
 - PDO PHP Extension
 - Mbstring PHP Extension
 - MySql  >= 5 / MariaDB  >= 10
+- Composer
 
 ### Running the project
  
